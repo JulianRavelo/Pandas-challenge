@@ -12,7 +12,7 @@ Finally, there are three data frames to analyse schools by different characteris
 ## Conclusions
 1. Scores by School Spending data frame show that average schools' performances are inversely proportional to the budget per student dedicated per school. This would indicate that just dedicating more money per student is not a guarantee of improving the average performance of the school.
 
-2. Top Performing Schools (By % Overall Passing), Bottom Performing Schools (By % Overall Passing), and Scores by School Type show that Independent schools consistently have better performance compared to Government schools. 3 of the top-5 best-performing schools (60%) are Independent and just 1 of the top-5 worst-performing schools are Independent. In the same way, the Overall passing score of Independent schools is better than Government schools.
+2. Top Performing Schools (By % Overall Passing), Bottom Performing Schools (By % Overall Passing), and Scores by School Type show that Independent schools consistently have better performance compared to Government schools. 3 of the top-5 best-performing schools (60%) are Independent and just 1 of the top-5 worst-performing schools are Independent. In the same way, the Overall average passing score of Independent schools is better than Government schools.
 ## Resources
 https://sparkbyexamples.com/pandas/pandas-set-index-to-column-in-dataframe/#:~:text=Convert%20the%20Index%20to%20Column%20Using%20rename_axis%20and%20reset_index,and%20then%20apply%20reset_index()%20.
 
