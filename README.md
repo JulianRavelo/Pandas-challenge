@@ -1,4 +1,4 @@
-### Pandas-challenge
+# Pandas-challenge
 
 ## Summary
 In this challenge, we analysed data from high schools. We mainly focused the analysis on the average passing grades for reading, maths, and overall per school to categorise the school's performances based on different categories such as type (Government or Independent), its budget, and number of students.
